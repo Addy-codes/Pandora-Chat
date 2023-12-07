@@ -19,9 +19,7 @@ Pandora Chat is a highly secure chat application developed as an integral part o
 ## Sample Images from the App
 Below are some sample images showcasing the features and user interface of Pandora Chat:
 
-![Screenshot_2023-10-03-19-52-49-51_46dc7b0e37e112806caf6cfd36fa3880](https://github.com/Addy-codes/Pandora-Chat/assets/72205091/57f0ce13-791e-4c4c-9761-c016df43c849)
-
-![Screenshot_2023-10-03-19-53-16-85_46dc7b0e37e112806caf6cfd36fa3880](https://github.com/Addy-codes/Pandora-Chat/assets/72205091/c6614530-c1d7-472f-a52e-f4d625ecaa17)
+![Screenshot_2023-10-03-19-52-49-51_46dc7b0e37e112806caf6cfd36fa3880](https://github.com/Addy-codes/Pandora-Chat/assets/72205091/57f0ce13-791e-4c4c-9761-c016df43c849)  ![Screenshot_2023-10-03-19-53-16-85_46dc7b0e37e112806caf6cfd36fa3880](https://github.com/Addy-codes/Pandora-Chat/assets/72205091/c6614530-c1d7-472f-a52e-f4d625ecaa17)
 
 ![Screenshot_2023-10-03-19-53-29-45_46dc7b0e37e112806caf6cfd36fa3880](https://github.com/Addy-codes/Pandora-Chat/assets/72205091/8f543a1a-da77-4a9c-b4f0-34036d09d0c4)
 
