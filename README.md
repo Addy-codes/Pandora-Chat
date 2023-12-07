@@ -1,7 +1,7 @@
-# Pandora Chat: Internship Project at Acquaria Solutions Private Limited
+# Pandora Chat: Internship Project at Aquaria Solutions Private Limited
 
 ## Overview
-Pandora Chat is a highly secure chat application developed as an integral part of my internship at Acquaria Solutions Private Limited. This application emphasizes user privacy and security, offering features such as end-to-end encryption and a unique 'no contact saving' option to maintain user anonymity.
+Pandora Chat is a highly secure chat application developed as an integral part of my internship at Aquaria Solutions Private Limited. This application emphasizes user privacy and security, offering features such as end-to-end encryption and a unique 'no contact saving' option to maintain user anonymity.
 
 ### Key Features
 - **End-to-End Encryption**: Ensuring that your conversations remain private and secure.
@@ -31,11 +31,11 @@ Below are some sample images showcasing the features and user interface of Pando
 ![Screenshot_2023-10-03-19-53-37-19_46dc7b0e37e112806caf6cfd36fa3880](https://github.com/Addy-codes/Pandora-Chat/assets/72205091/a4808d98-e65a-47f2-8236-bd5509699881)
 
 ## Confidentiality Notice
-Please note that the codebase of Pandora Chat is confidential and all rights are reserved to Acquaria Solutions Private Limited. The information and images shared here are solely for the purpose of showcasing the project work done during the internship.
+Please note that the codebase of Pandora Chat is confidential and all rights are reserved to Aquaria Solutions Private Limited. The information and images shared here are solely for the purpose of showcasing the project work done during the internship.
 
 ## Contact
 For more information or inquiries related to Pandora Chat, please contact [Mohammad Adeeb Siddiqui] at [adeeb9839@gmail.com].
 
 ---
 
-© [2023] Acquaria Solutions Private Limited. All Rights Reserved.
+© [2023] Aquaria Solutions Private Limited. All Rights Reserved.
